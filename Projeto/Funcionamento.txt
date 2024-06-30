@@ -1,0 +1,8 @@
+Bolsa_Log_Acoes -> Mostra o Resultado Final dos Valores na Bolsa de Ação
+Bolsa_Log_Horarios -> Mostra os momentos que a bolsa teve de fazer uma sincronização com o homebroker
+Bolsa_Log_Start_End -> Momento de Abertura e Fechamento da Bolsa.(Horario que os robos funcionam)
+Log_Change_(arquivo home_broker) -> Alteraçõs dos Valores da Bolsa sendo mandado para os Home home_brokerx
+Log_(arquivo robo) -> Mostra o Resultado Final dos Valores de cada Robo
+Log_Transaçoes_(arquivo robo) -> Mostra a transação feita por cada Robo
+
+Digite no terminal start.bat para Rodar.

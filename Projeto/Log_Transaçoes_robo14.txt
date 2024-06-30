@@ -1,0 +1,32 @@
+Bolsa aceitou a solicitacao de compra do Robo de 18 acoes por 70 da empresa1 | Horario de Envio Bolsa: 20:32:56
+Bolsa aceitou a solicitacao de compra do Robo de 9 acoes por 32 da empresa4 | Horario de Envio Bolsa: 20:32:58
+Bolsa aceitou a solicitacao de venda do Robo de 1 acoes por 40 empresa4 | Horario de Envio Bolsa: 20:33:0
+Bolsa aceitou a solicitacao de compra do Robo de 3 acoes por 59 da empresa4 | Horario de Envio Bolsa: 20:33:2
+Bolsa aceitou a solicitacao de compra do Robo de 3 acoes por 106 da empresa2 | Horario de Envio Bolsa: 20:33:4
+Bolsa aceitou a solicitacao de venda do Robo de 1 acoes por 109 empresa2 | Horario de Envio Bolsa: 20:33:6
+Bolsa aceitou a solicitacao de compra do Robo de 16 acoes por 93 da empresa1 | Horario de Envio Bolsa: 20:33:8
+Bolsa aceitou a solicitacao de venda do Robo de 1 acoes por 108 empresa2 | Horario de Envio Bolsa: 20:33:10
+Bolsa aceitou a solicitacao de venda do Robo de 20 acoes por 112 empresa1 | Horario de Envio Bolsa: 20:33:12
+Bolsa aceitou a solicitacao de compra do Robo de 2 acoes por 107 da empresa2 | Horario de Envio Bolsa: 20:33:14
+Bolsa aceitou a solicitacao de venda do Robo de 3 acoes por 74 empresa2 | Horario de Envio Bolsa: 20:33:16
+Bolsa aceitou a solicitacao de compra do Robo de 5 acoes por 73 da empresa5 | Horario de Envio Bolsa: 20:33:18
+Bolsa aceitou a solicitacao de compra do Robo de 11 acoes por 92 da empresa1 | Horario de Envio Bolsa: 20:33:20
+Bolsa aceitou a solicitacao de compra do Robo de 19 acoes por 72 da empresa2 | Horario de Envio Bolsa: 20:33:22
+Bolsa aceitou a solicitacao de venda do Robo de 17 acoes por 107 empresa2 | Horario de Envio Bolsa: 20:33:24
+Bolsa aceitou a solicitacao de compra do Robo de 5 acoes por 99 da empresa2 | Horario de Envio Bolsa: 20:33:26
+Bolsa aceitou a solicitacao de compra do Robo de 2 acoes por 78 da empresa5 | Horario de Envio Bolsa: 20:33:28
+Bolsa aceitou a solicitacao de compra do Robo de 1 acoes por 107 da empresa2 | Horario de Envio Bolsa: 20:33:30
+Bolsa aceitou a solicitacao de compra do Robo de 1 acoes por 149 da empresa3 | Horario de Envio Bolsa: 20:33:32
+Bolsa aceitou a solicitacao de venda do Robo de 2 acoes por 108 empresa2 | Horario de Envio Bolsa: 20:33:34
+Bolsa aceitou a solicitacao de compra do Robo de 21 acoes por 99 da empresa1 | Horario de Envio Bolsa: 20:33:36
+Bolsa aceitou a solicitacao de venda do Robo de 11 acoes por 42 empresa4 | Horario de Envio Bolsa: 20:33:38
+Bolsa aceitou a solicitacao de venda do Robo de 1 acoes por 120 empresa1 | Horario de Envio Bolsa: 20:33:40
+Bolsa aceitou a solicitacao de compra do Robo de 13 acoes por 92 da empresa2 | Horario de Envio Bolsa: 20:33:42
+Bolsa aceitou a solicitacao de venda do Robo de 1 acoes por 150 empresa3 | Horario de Envio Bolsa: 20:33:44
+Bolsa aceitou a solicitacao de compra do Robo de 2 acoes por 118 da empresa1 | Horario de Envio Bolsa: 20:33:46
+Bolsa aceitou a solicitacao de compra do Robo de 5 acoes por 104 da empresa2 | Horario de Envio Bolsa: 20:33:48
+Bolsa aceitou a solicitacao de compra do Robo de 1 acoes por 119 da empresa1 | Horario de Envio Bolsa: 20:33:50
+Bolsa aceitou a solicitacao de compra do Robo de 1 acoes por 64 da empresa4 | Horario de Envio Bolsa: 20:33:52
+Bolsa aceitou a solicitacao de venda do Robo de 5 acoes por 74 empresa5 | Horario de Envio Bolsa: 20:33:54
+Bolsa aceitou a solicitacao de compra do Robo de 5 acoes por 70 da empresa5 | Horario de Envio Bolsa: 20:33:56
+Bolsa aceitou a solicitacao de compra do Robo de 1 acoes por 149 da empresa3 | Horario de Envio Bolsa: 20:33:58
